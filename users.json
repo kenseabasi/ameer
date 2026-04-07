@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1775515786162",
+    "fullName": "Test User",
+    "matricNumber": "123456",
+    "email": "test@example.com",
+    "password": "e5d5fe9906d982028118d8fec17a326845d29bc4976fbd219ec9a16a3d928501",
+    "verified": false,
+    "createdAt": "2026-04-06T22:49:46.163Z"
+  }
+]
